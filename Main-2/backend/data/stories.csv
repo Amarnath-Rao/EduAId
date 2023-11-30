@@ -1,0 +1,66 @@
+id,title,story,img,audio
+1,**Linear Algebra for Last-Minute Revision**,"This summary covers the key concepts of linear algebra that students need to know for a last-minute revision.
+
+* **Vectors** are mathematical objects that have both magnitude and direction. They can be represented graphically as arrows, and algebraically as ordered lists of numbers.
+* **Matrices** are rectangular arrays of numbers. They can be used to represent linear transformations, which are changes in the direction and/or magnitude of vectors.
+* **Linear equations** are equations that can be written in the form $Ax = b$, where $A$ is a matrix, $x$ is a vector, and $b$ is a constant vector.
+* **Linear independence** is a property of vectors that means they cannot be written as a linear combination of other vectors.
+* **Span** is the set of all vectors that can be written as a linear combination of a given set of vectors.
+* **Basis** is a set of vectors that spans a vector space and is linearly independent.
+
+These are just a few of the key concepts of linear algebra. For more information, please refer to a textbook or online resource.",http://localhost:5000/images/**Linear Algebra for Last-Minute Revision**.png,http://localhost:5000/audios/**Linear Algebra for Last-Minute Revision**.wav
+2,**8085 Microprocessor**,"The 8085 is an 8-bit microprocessor that was introduced by Intel in 1976. It is a member of the 8080 family of microprocessors and is backward compatible with the 8080. The 8085 has a 16-bit address bus and a 8-bit data bus. It can operate at a clock speed of up to 5 MHz. The 8085 is a popular microprocessor for use in embedded systems.
+
+Here are some of the features of the 8085:
+
+* 16-bit address bus
+* 8-bit data bus
+* 5 MHz clock speed
+* 8-level priority interrupt system
+* 16 general-purpose registers
+* 8-bit accumulator
+* 16-bit stack pointer
+* 16-bit program counter
+* 24-bit instruction pointer
+
+The 8085 is a versatile and powerful microprocessor that can be used in a wide variety of applications. It is a good choice for students who are learning about microprocessors or for embedded systems designers who need a reliable and affordable processor.",http://localhost:5000/images/**8085 Microprocessor**.png,http://localhost:5000/audios/**8085 Microprocessor**.wav
+3,**Data Science**,"Data science is the field of study that deals with the collection, processing, and analysis of data in order to extract useful information. Data scientists use a variety of tools and techniques to perform this task, including machine learning, natural language processing, and statistical analysis. Data science is a rapidly growing field, and it is being used in a wide variety of industries, including healthcare, finance, and retail.
+
+**Key concepts in data science:**
+
+* Data collection
+* Data processing
+* Data analysis
+* Machine learning
+* Natural language processing
+* Statistical analysis
+
+**Applications of data science:**
+
+* Healthcare
+* Finance
+* Retail
+* Manufacturing
+* Transportation
+* Government
+* Education
+
+**Benefits of data science:**
+
+* Improved decision-making
+* Increased productivity
+* Reduced costs
+* Improved customer service
+* Increased innovation
+
+**Challenges of data science:**
+
+* Data quality
+* Data privacy
+* Data security
+* Ethical concerns
+* Technical skills
+
+**The future of data science:**
+
+Data science is expected to continue to grow in importance in the coming years. As the amount of data available continues to grow, so too will the need for people who can understand and analyze it. Data scientists will be in high demand in a variety of industries, and they will have the opportunity to make a real impact on the world.",http://localhost:5000/images/**Data Science**.png,http://localhost:5000/audios/**Data Science**.wav
