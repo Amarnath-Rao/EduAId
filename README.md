@@ -17,7 +17,8 @@ Our EduAId platform is the best solution for the last minute preparations, be it
 * Flask
 * Html
 * CSS
-
+### Working:
+Extract all zips and download node packages ant then run the main.py server as backend 
 ## Workflow:
 ![image](https://github.com/Amarnath-Rao/EduAId/assets/96937608/0dc58ff4-a1e6-4865-883e-5c3f6646d5fe)
 
